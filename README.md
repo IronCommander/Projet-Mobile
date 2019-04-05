@@ -23,26 +23,30 @@ Projet d'application mobile affichant une liste de pizzas que l'utilisateur peut
 
 - Fonctions supplémentaires :
 	
-	- Création d'une API personnalisée (rly-chrono.fr/api/stands)
+	- Création d'une API personnalisée (rly-chrono.fr/api/pizzas)
 	- Barre de recherche (SearchView)
 
 ## Fonctionnalités: 
 
-### Ecran Home 
+### Ecran de base 
 
-- Affiche la liste des stands avec musique on (à gauche) et off (à droite) et une barre de recherche.
+#### Liste des Pizzas
 
-<img src="readme_images/liste_volume_on.jpg" width="268" height="467" alt="liste stands">        <img src="readme_images/liste_volume_off.jpg" width="268" height="467" alt="liste stands"> 
+- Cet écran affiche la liste des pizzas avec la photo leur correspondant. 
 
-### Ecran du détail du Stand
+<img src="1.png" width="268" height="467" alt="Liste Pizzas">       
 
-- Affiche l'image de l'utilisateur du Stand
-- Le nom de l'utilisateur
-- Explication du pouvoir du Stand
+#### Barre de recherche
 
-<img src="readme_images/ecran_details.jpg" width="268" height="467" alt="détails stands">
+- La barre de recherche située en haut à droite permet de filtrer les pizzas par leur nom.
 
-### Filtres 
+<img src="3.png" width="268" height="467" alt="Barre de recherche">
 
-<img src="readme_images/barre_recherche.jpg" width="268" height="467" alt="Search View">
+### Ecran recette
+
+- Cet écran affiche l'image de la pizza, avec en dessous son nom. Il affiche aussi les ingrédients nécessaires pour la réaliser et les étapes pour la préparer.
+
+<img src="2.png" width="268" height="467" alt="Recette">
+
+
 
