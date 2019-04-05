@@ -1,6 +1,6 @@
 # Projet-Mobile
 ## Fait par
-Gmandières Nathanaël Groupe 34 3A
+Glandières Nathanaël Groupe 34 3A
 
 ## Présentation
 
