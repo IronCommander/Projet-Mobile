@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "622716365927",
+    "firebase_url": "https://pizz-e0b1e.firebaseio.com",
+    "project_id": "pizz-e0b1e",
+    "storage_bucket": "pizz-e0b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622716365927:android:3e53b4425691df83",
+        "android_client_info": {
+          "package_name": "com.example.projetnath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5ReoAH4gEuaf3HAQbQUMk7yudcbSIiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622716365927-d5u5gimn7lp3kunqonfrusrsktngo9ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
